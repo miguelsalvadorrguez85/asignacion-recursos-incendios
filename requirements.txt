@@ -4,4 +4,4 @@ numpy
 pandas
 pyproj
 xgboost
-sklearn
+scikit-learn
