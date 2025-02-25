@@ -44,7 +44,7 @@ estacion_categories   = cat_transformer.categories_[1]
 st.markdown(
     """
     <h1 style="text-align: center;">
-        🔥 Aplicación de asignación de recursos técnicos para la extinción de incendios forestales
+        🔥 Firecast 🔥
     </h1>
     """,
     unsafe_allow_html=True
