@@ -85,8 +85,8 @@ with tab_pred:
                          ("Aviones", "Helicópteros", "Bulldozers", "Aviones Terrestres", "Autobombas"))
     
     # Definir el texto del botón según el recurso seleccionado
-    if resource == "Aviones anfibios":
-        button_label = "Predecir si se necesitan aviones anfibios"
+    if resource == "Aviones":
+        button_label = "Predecir si se necesitan aviones"
     elif resource == "Helicópteros":
         button_label = "Predecir si se necesitan helicópteros"
     elif resource == "Bulldozers":
